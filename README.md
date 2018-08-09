@@ -1,0 +1,2 @@
+# lcdtext
+LcdText Component
