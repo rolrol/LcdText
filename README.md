@@ -1,2 +1,2 @@
 # lcdtext
-LcdText Component
+LcdText
